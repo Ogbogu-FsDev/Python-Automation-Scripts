@@ -1,0 +1,10 @@
+# Core web and API automation
+requests
+beautifulsoup4
+
+# Data processing and reporting
+pandas
+openpyxl
+
+# System monitoring
+psutil
